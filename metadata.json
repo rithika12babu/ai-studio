@@ -1,0 +1,6 @@
+{
+  "name": "Aura Hearth & Dining",
+  "description": "Artisanal woodfire dining, seasonal botanical gastronomy, table reservations, and handcrafted online ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
